@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src=".github/readme/theme.gif" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://academic-codex.github.io/IF4302212-Fisica-IV">
-    <img src=".github/readme/hero.svg?v=2025-12-26T17:10:32.657849Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-27T13:58:12.087131Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
