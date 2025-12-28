@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/IF4302212-Fisica-IV">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:14.487829Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:34:43.502264Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
